@@ -1,0 +1,11 @@
+{
+  "posts": {
+    "valid": {
+      "id": 99,
+      "userId": 10
+    },
+    "invalid": {
+      "id": 150
+    }
+  }
+}
